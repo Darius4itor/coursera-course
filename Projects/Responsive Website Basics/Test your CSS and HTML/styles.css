@@ -1,0 +1,12 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+h1 {
+   /*Changes a font color*/
+    color: #ea3;
+   /*Changes a font style to italic*/
+    font-style: italic;
+   /*Changes a possition of text*/
+    text-align: center;
+}
